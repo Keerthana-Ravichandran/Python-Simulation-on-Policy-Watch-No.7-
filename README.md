@@ -1,5 +1,13 @@
 # Python-Simulation-on-Policy-Watch-No.7:
 
+Policy Watch No.7 titled "Winning Voter Confidence: Fixing India's Faulty VVPAT-based Audit of EVMs" discusses the issues surrounding the use of Electronic Voting Machines (EVMs) in India and proposes solutions for improving the accuracy and transparency of the election process.
+
+    The author argues that the use of Voter Verified Paper Audit Trail (VVPAT) is not enough to ensure the integrity of the voting process and proposes the use of statistical sampling methods to conduct post-election audits. 
+
+    The paper provides a detailed analysis of different sampling methods and their effectiveness in improving the accuracy of election results. 
+
+    The author also proposes the use of state-level populations for sampling rather than parliamentary or assembly constituencies. The paper includes tables and charts that can be used to simulate and understand the sampling process. 
+
 Here are the steps you can follow to create a Python simulation based on the findings of Policy Watch No. 7:
 
 Define the problem: 
