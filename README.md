@@ -1,3 +1,5 @@
+https://nbviewer.org/github/Keerthana-Ravichandran/Python-Simulation-on-Policy-Watch-No.7-/blob/main/Python_Simulation_on_Policy_Watch_No_7.ipynb
+# Click this link to view the colab notebook.
 # Python-Simulation-on-Policy-Watch-No.7:
 
 Policy Watch No.7 titled "Winning Voter Confidence: Fixing India's Faulty VVPAT-based Audit of EVMs" discusses the issues surrounding the use of Electronic Voting Machines (EVMs) in India and proposes solutions for improving the accuracy and transparency of the election process.
